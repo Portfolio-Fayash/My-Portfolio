@@ -88,13 +88,13 @@ const AboutPage = () => {
           <h2 className="text-3xl font-bold ">Details</h2>
 
           <p className="text-1xl text-gray-700 pt-6 pr-48 ">
-            ChatGPT Hello everyone, I'm Muhammad Fayash Wahyudha, a web
-            developer from Jakarta, Indonesia. Currently, I'm a student at
-            Purwadhika Digital Technology School, majoring in Full-stack Web
-            Development. I'm passionate about my work and enjoy what I do. My
-            job involves building websites that are functional, user-friendly,
-            and attractive. I have skills in leadership, communication,
-            teamwork, and adaptability to new challenges.
+            Hello everyone, I'm Muhammad Fayash Wahyudha, a web developer from
+            Jakarta, Indonesia. Currently, I'm a student at Purwadhika Digital
+            Technology School, majoring in Full-stack Web Development. I'm
+            passionate about my work and enjoy what I do. My job involves
+            building websites that are functional, user-friendly, and
+            attractive. I have skills in leadership, communication, teamwork,
+            and adaptability to new challenges.
           </p>
           <p className="text-1xl text-gray-700 pt-6">
             <span className="font-bold">Name :</span>
@@ -105,8 +105,8 @@ const AboutPage = () => {
             19 <br />
             <span className="font-bold">Skills :</span>
             <br />
-            HTML, CSS, JavaScript, React, Tailwind,BootStrap, NPM, And GitHub{" "}
-            <br />
+            HTML, CSS, JavaScript, React, Tailwind,
+            <br /> BootStrap, NPM, TypeScript, And GitHub <br />
             <span className="font-bold">Location:</span>
             <br />
             Jakarta, Indonesia

@@ -80,7 +80,7 @@ const HomePage = () => {
       <section className="h-screen w-screen">
         <div className=" flex flex-col justify-center items-center justify-center items-center text-center h-full bg-[url('https://img.freepik.com/free-vector/watercolor-mountains-background_23-2149256619.jpg?t=st=1717055283~exp=1717058883~hmac=ed5c3e0708735496e59fa2737efc011af59f5ce660ad5600f55837a03fa253a0&w=996')] bg-cover bg-center  w-screen h-screen">
           <div className="flex justify-center items-center justify-center items-center h-full pt-44">
-            <div className="text-slate-800 flex flex-col justify-right items-right text-right pr-24">
+            <div className="text-slate-800 flex flex-col justify-right items-right text-right pr-24 ">
               <p className=" text-3xl ">Hello World, I'm</p>
               <h2 className="font-bold text-4xl ">Muhammad Fayash Wahyudha</h2>
               <p className="text-2xl">Full Stack Developer</p>
@@ -88,8 +88,8 @@ const HomePage = () => {
             </div>
             <div>
               <img
-                className=" w-60 h-60 rounded-full "
-                src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+                className=" w-60 h-60 items-center shadow-2xl  rounded-full cover"
+                src="https://cdn.discordapp.com/attachments/887154883512401932/1247063263754059787/WhatsApp_Image_2024-06-03_at_12.43.32.jpeg?ex=665ea9ab&is=665d582b&hm=d724c4630b7cd5eec1424af939c532d5aa7dd0d296609594686c40d5e6f709ff&"
                 alt="poto"
               />
             </div>
